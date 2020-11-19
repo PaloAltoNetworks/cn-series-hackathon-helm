@@ -21,7 +21,7 @@ entries:
     name: cn-series
     type: application
     urls:
-    - https://paloaltonetworks.github.io/cn-series-helm/cn-series-0.1.5.tgz
+    - https://paloaltonetworks.github.io/cn-series-hackathon-helm/cn-series-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v2
     appVersion: 10.0.0
